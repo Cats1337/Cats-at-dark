@@ -1,0 +1,36 @@
+{
+	"name": "cats-at-dark",
+	"displayName": "Cats at Dark",
+	"description": "Cats at Dark is an edit of Monokai Dark Soda",
+	"icon": "https://raw.githubusercontent.com/Cats1337/Cats-at-dark/main/icon/cats.png",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Cats1337/Cats-at-dark"
+	},
+	  
+	"categories": ["Themes"],
+		"galleryBanner": {
+		  "color": "#42a9fc",
+		  "theme": "dark"
+		},
+	
+	"publisher": "Cats1337",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cats at Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cats at Dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e4fb8b7f-e498-4eef-982c-5bbec92830af",
+		"publisherDisplayName": "Cats1337",
+		"publisherId": "a99e4e95-1f50-4c13-8ee6-3c8866c022f9"
+	}
+}
