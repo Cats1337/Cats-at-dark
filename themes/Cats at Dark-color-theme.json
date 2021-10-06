@@ -590,7 +590,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#8447a0",
+				"foreground": "#b544e9",
 				"fontStyle": "italic"
 			}
 		},
