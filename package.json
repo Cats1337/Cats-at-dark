@@ -3,7 +3,7 @@
 	"displayName": "Cats at Dark",
 	"description": "Cats at Dark is an edit of Monokai Dark Soda",
 	"icon": "images/icon.png",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
