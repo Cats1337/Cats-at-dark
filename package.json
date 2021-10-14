@@ -2,7 +2,7 @@
 	"name": "cats-at-dark",
 	"displayName": "Cats at Dark",
 	"description": "Cats at Dark is an edit of Monokai Dark Soda",
-	"icon": "https://raw.githubusercontent.com/Cats1337/Cats-at-dark/main/icon/cats.png",
+	"icon": "https://raw.githubusercontent.com/Cats1337/Cats-at-dark/main/images/icon.png",
 	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.60.0"
